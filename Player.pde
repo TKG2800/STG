@@ -1,8 +1,17 @@
 class Player {
-  float x = 0;
-  float y = 0;
+  Point o;// 原点(origin)
+  // TODO: コンストラクター(Constructor)
+  // NOTE: - [ ] point
+  // NOTE: - [ ] filename:vehicle.png
   Player(float x,float y) {
-    this.x = x;
-    this.y = y;
+    this.o = Point(x,y);
+  }
+  // TODO: 移動(Move)
+  void Move() {
+
+  }
+  // TODO: レンダリング(rendering)
+  void Render() {
+
   }
 }
