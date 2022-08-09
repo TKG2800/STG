@@ -1,7 +1,7 @@
 # STG
 <!-- TODO: フロー図(Flow Chart)
 <!-- TODO: アクティビティ図(Activity Chart) -->
-<!-- TODO: a -->
+<!-- TODO: クラス図(Class Chart) -->
 
 ## フロー図(Flow Chart)
 
