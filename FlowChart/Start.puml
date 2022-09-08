@@ -1,0 +1,8 @@
+@startuml
+partition Start {
+:開始(Start);
+!include Settings.puml
+!include Setup.puml
+:終了(End);
+}
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+partition FlowChart {
+:開始(Start);
+:初期化(Init)]
+:更新(Update)|
+if(判断:入力(Input)) then (W,S,A,D)
+:移動(Move)|
+else (左,右クリック)
+:攻撃(Attack)|
+endif
+:更新(Update)|
+:レンダリング(Render)|
+}
+@enduml

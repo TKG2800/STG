@@ -1,0 +1,8 @@
+@startuml
+partition Settings {
+  :Stage(filename.json)]
+  :Stage.FO(filename.json)|
+  :Stage.getPlayer()|
+  :Stage.getEmeny()|
+}
+@enduml

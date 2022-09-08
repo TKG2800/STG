@@ -1,0 +1,15 @@
+@startuml
+split
+!include Example.puml
+split again
+!include FlowChart.puml
+split again
+!include Start.puml
+split again
+!include Init.puml
+split again
+!include Update.puml
+split again
+:A;
+end split
+@enduml

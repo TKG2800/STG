@@ -1,0 +1,18 @@
+@startuml
+partition Example {
+:端子;
+:処理]
+if(判断) then
+  :入出力/
+  :入出力\\
+kill
+endif
+while (ループ)
+:準備}
+:定義済処理|
+endwhile
+-[hidden]->
+' コメントアウト
+detach
+}
+@enduml
