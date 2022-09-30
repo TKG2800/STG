@@ -28,4 +28,4 @@
 #### [Example](FlowChart/example.puml)
 <!-- @import "FlowChart\example.puml" -->
 ### アクティビティ図(Activity Chart)
-### クラス図(Class Chart)
+### クラス図(Class Chart)aaaa
